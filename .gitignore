@@ -1,0 +1,6 @@
+# Ignore Qt build files
+build/
+*.pro.user
+
+# Ignore node.js dependencies
+node_modules/
